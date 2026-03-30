@@ -1,6 +1,6 @@
-# Hi, I'm [Huynh Mai Linh Nguyen] 👋
+# Hi, I'm Huynh Mai Linh Nguyen 👋
 
-🎓 CS freshman at the University of South Florida (USF)  
+🎓 CS freshman at the University of South Florida
 🤖 Aspiring AI Engineer passionate about machine learning, intelligent systems, and software development  
 💡 Interested in building technology that solves real-world problems through AI
 
@@ -31,7 +31,7 @@ I’m a Computer Science freshman at USF with a strong interest in artificial in
 My goal is to become an AI Engineer and work on systems that combine software engineering with machine learning to create useful, impactful solutions.
 
 ## Connect With Me
-Email: [huynhmailinhnguyen07@gmail.com]
+Email: huynhmailinhnguyen07@gmail.com
 
 ---
 ⭐ Thanks for visiting my profile!
