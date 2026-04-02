@@ -33,7 +33,7 @@ I’m a Computer Science freshman at USF with a strong interest in artificial in
 My goal is to become an AI Engineer and work on systems that combine software engineering with machine learning to create useful, impactful solutions.
 
 ## Connect With Me
-Email: huynhmailinhnguyen07@gmail.com <br>
+[Email](huynhmailinhnguyen07@gmail.com) <br>
 [Linkedin](https://www.linkedin.com/in/huynh-mai-linh-nguyen-766719381/)
 
 ---
