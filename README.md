@@ -1,7 +1,9 @@
 # Hi, I'm Huynh Mai Linh Nguyen 👋
 
 🎓 CS freshman at the University of South Florida
+
 🤖 Aspiring AI Engineer passionate about machine learning, intelligent systems, and software development
+
 💡 Interested in building technology that solves real-world problems through AI
 
 ## About Me
