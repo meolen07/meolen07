@@ -34,6 +34,7 @@ My goal is to become an AI Engineer and work on systems that combine software en
 
 ## Connect With Me
 Email: huynhmailinhnguyen07@gmail.com
+[Linkedin](https://www.linkedin.com/in/huynh-mai-linh-nguyen-766719381/)
 
 ---
 ⭐ Thanks for visiting my profile!
