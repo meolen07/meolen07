@@ -5,9 +5,6 @@
 🤖 Aspiring AI Engineer passionate about machine learning, intelligent systems, and software development
 
 💡 Interested in building technology that solves real-world problems through AI
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/HuynhMaiLinhNguyen/HuynhMaiLinhNguyen/output/github-contribution-grid-snake.svg)
 
 ## About Me
 I’m a Computer Science freshman at USF with a strong interest in artificial intelligence and engineering intelligent systems. Right now, I’m focused on building a solid foundation in programming, mathematics, and problem solving while exploring machine learning, data science, and AI development.
