@@ -1,9 +1,4 @@
-# Hi, I'm Huynh Mai Linh Nguyen 👋
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ff9a9e,50:fecfef,100:f472b6&text=Aspiring%20AI%20Engineer&fontColor=ffffff&fontSize=32&fontAlignY=38&desc=Computer%20Science%20%7C%20University%20of%20South%20Florida&descAlignY=60&animation=fadeIn" />
-</p>
-
+# Hi, I'm Huynh Mai Linh Nguyen 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&color=F472B6&lines=Building+cool+things+with+code;Exploring+AI+and+Machine+Learning;Turning+ideas+into+software" />
 </p>
