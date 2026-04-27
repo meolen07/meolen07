@@ -1,7 +1,11 @@
 # Hi, I'm Huynh Mai Linh Nguyen 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;CS+Freshman+at+USF;Building+cool+things+with+code" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:006747,50:00B050,100:111827&text=Huynh%20Mai%20Linh%20Nguyen&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=CS%20Freshman%20%7C%20Aspiring%20AI%20Engineer%20%7C%20USF&descAlignY=58&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+cool+things+with+code;Exploring+AI+and+Machine+Learning;Turning+ideas+into+software" />
 </p>
 
 ## About Me
