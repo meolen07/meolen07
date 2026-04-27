@@ -1,9 +1,4 @@
 # Hi, I'm Huynh Mai Linh Nguyen 👋
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/University_of_South_Florida_seal.svg/200px-University_of_South_Florida_seal.svg.png" width="45" alt="USF logo" />
-  <br>
-  <strong>CS Freshman at the University of South Florida</strong>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;CS+Freshman+at+USF;Building+cool+things+with+code" />
