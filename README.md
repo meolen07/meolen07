@@ -12,14 +12,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuynhMaiLinhNguyen&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meolen07&show_icons=true&theme=tokyonight" />
 </p>
 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhMaiLinhNguyen&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meolen07&layout=compact&theme=tokyonight" />
 </p>
+
 ## About Me
 I’m a Computer Science freshman at USF with a strong interest in artificial intelligence and engineering intelligent systems. Right now, I’m focused on building a solid foundation in programming, mathematics, and problem solving while exploring machine learning, data science, and AI development.
 
