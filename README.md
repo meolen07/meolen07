@@ -8,11 +8,14 @@
 I’m a Computer Science freshman at USF with a strong interest in artificial intelligence and engineering intelligent systems. Right now, I’m focused on building a solid foundation in programming, mathematics, and problem solving while exploring machine learning, data science, and AI development.
 
 ## Interests
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Data Science
-- Software Engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-20B2AA?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-24292F?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ## GitHub Stats
 
