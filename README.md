@@ -14,13 +14,13 @@ I’m a Computer Science freshman at USF with a strong interest in artificial in
 - Data Science
 - Software Engineering
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meolen07&show_icons=true&theme=tokyonight" />
 </p>
 
-## 💻 Most Used Languages
+## Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meolen07&layout=compact&theme=tokyonight" />
