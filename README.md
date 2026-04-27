@@ -1,7 +1,7 @@
 # Hi, I'm Huynh Mai Linh Nguyen 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ff9a9e,50:fecfef,100:f472b6&text=Aspiring%20AI%20Engineer&fontColor=ffffff&fontSize=32&fontAlignY=38&desc=CS%20Freshman%20%7C%20University%20of%20South%20Florida&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ff9a9e,50:fecfef,100:f472b6&text=Aspiring%20AI%20Engineer&fontColor=ffffff&fontSize=32&fontAlignY=38&desc=Computer%20Science%20%7C%20University%20of%20South%20Florida&descAlignY=60&animation=fadeIn" />
 </p>
 
 <p align="center">
