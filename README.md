@@ -16,12 +16,6 @@ I’m a Computer Science freshman at USF with a strong interest in artificial in
   <img src="https://img.shields.io/badge/Software%20Engineering-24292F?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meolen07&show_icons=true&theme=tokyonight" />
-</p>
-
 ## Most Used Languages
 
 <p align="center">
