@@ -16,16 +16,12 @@ I’m a Computer Science freshman at USF with a strong interest in artificial in
   <img src="https://img.shields.io/badge/Software%20Engineering-24292F?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-
 ## Current Focus
 - Strengthening computer science fundamentals
 - Learning the foundations of machine learning and AI
 - Building projects with Python
 - Practicing data structures and algorithms
 - Growing toward becoming an AI Research Engineer
-
-## Goal
-My goal is to become an AI Research Engineer and work on systems that combine software engineering with machine learning to create useful, impactful solutions.
 
 ## Connect With Me
 [Email](huynhmailinhnguyen07@gmail.com) <br>
