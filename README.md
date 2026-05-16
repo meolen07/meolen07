@@ -16,47 +16,16 @@ I’m a Computer Science freshman at USF with a strong interest in artificial in
   <img src="https://img.shields.io/badge/Software%20Engineering-24292F?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meolen07&layout=compact&theme=tokyonight" />
-</p>
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Learning-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
 
 ## Current Focus
 - Strengthening computer science fundamentals
 - Learning the foundations of machine learning and AI
 - Building projects with Python
 - Practicing data structures and algorithms
-- Growing toward becoming an AI Engineer
+- Growing toward becoming an AI Research Engineer
 
 ## Goal
-My goal is to become an AI Engineer and work on systems that combine software engineering with machine learning to create useful, impactful solutions.
+My goal is to become an AI Research Engineer and work on systems that combine software engineering with machine learning to create useful, impactful solutions.
 
 ## Connect With Me
 [Email](huynhmailinhnguyen07@gmail.com) <br>
