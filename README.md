@@ -4,7 +4,7 @@
 </p>
 
 ## About Me
-I’m a Computer Science freshman at USF with a strong interest in artificial intelligence and engineering intelligent systems. Right now, I’m focused on building a solid foundation in programming, mathematics, and problem solving while exploring machine learning, data science, and AI development.
+I’m a Computer Science sophomore at USF with a strong interest in artificial intelligence and engineering intelligent systems. Right now, I’m focused on building a solid foundation in programming, mathematics, and problem solving while exploring machine learning, data science, and AI development.
 
 ## Interests
 
