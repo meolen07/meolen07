@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Huynh Mai Linh Nguyen
+# Hi, I'm Huynh Mai Linh Nguyen
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=620&lines=AI+%26+Machine+Learning+Enthusiast;Software+Engineer+in+Training;Building+Intelligent+Systems+That+Matter" alt="Typing animation" />
 
@@ -20,7 +20,7 @@
 
 </motion>
 
-## 🧠 About Me
+## About Me
 
 </motion>
 
@@ -38,7 +38,7 @@ I'm currently building strong foundations in **programming**, **mathematics**, a
 
 </motion>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 </motion>
 
@@ -69,7 +69,7 @@ I'm currently building strong foundations in **programming**, **mathematics**, a
 
 </motion>
 
-## 🎯 Current Focus
+## Current Focus
 
 </motion>
 
