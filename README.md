@@ -4,15 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=F472B6&center=true&vCenter=true&multiline=true&repeat=true&width=620&lines=AI+Enthusiast" alt="Typing animation" />
 
-
-</motion>
-
----
-
-</motion>
-
-## About Me
-
 </motion>
 
 <div align="left">
@@ -85,6 +76,8 @@ A growing collection of **machine learning experiments**, mini-research prototyp
 
 ## ✨ Featured Projects
 
+</motion>
+
 </div>
 
 <table>
@@ -92,14 +85,17 @@ A growing collection of **machine learning experiments**, mini-research prototyp
 <td width="50%" valign="top">
 
 ### MedXAI
-**Explainable Medical Imaging Intelligence System**
+**Explainable Medical Imaging Intelligence**
 
-AI-driven medical imaging focused on **intelligent diagnosis support** and **model interpretability** — connecting deep learning with transparent, clinician-friendly insights.
+Multi-model classification (ResNet-50, EfficientNet-B3, ViT-B/16) with **Grad-CAM** and **attention rollout**. FastAPI inference + **Streamlit** review UI (upload → probabilities → heatmap overlay). *Research software — not for clinical use.*
 
-**Stack:** `Python` · `PyTorch` · `TensorFlow` · `NumPy` · `Pandas` · `Scikit-Learn`
+**Stack:** `Python` · `PyTorch` · `FastAPI` · `Streamlit`
 
-[![Repo](https://img.shields.io/badge/View_Repo-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meolen07/explainable-medical-imaging-ai)
-[![Demo](https://img.shields.io/badge/Demo-00B4D8?style=for-the-badge&logo=rocket&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/Repository-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meolen07/explainable-medical-imaging-ai)
+[![Demo](https://img.shields.io/badge/Demo-Streamlit_UI-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/meolen07/explainable-medical-imaging-ai#ui)
+[![API](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/meolen07/explainable-medical-imaging-ai#api)
+
+<sub>Demo: run locally → <code>streamlit run src/ui/app.py</code> · Replace badge URL when you deploy Streamlit Cloud.</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -107,14 +103,15 @@ AI-driven medical imaging focused on **intelligent diagnosis support** and **mod
 ### Hypergraph-DDI
 **What if Drug Interactions Are Not Pairwise?**
 
-Research codebase modeling **multi-drug interactions** with **Hypergraph Neural Networks (HGNNs)** instead of assuming pairwise-only structure. Compares HGNN against **GCN**, **GAT**, **GraphSAGE**, and **MLP** baselines on DDI prediction (ROC-AUC, PR-AUC, F1, Precision@K).
+Hypergraph neural networks for **multi-drug** DDI vs GCN/GAT/GraphSAGE/MLP baselines. Unified preprocess → train → evaluate (ROC-AUC, PR-AUC, F1, Precision@K). Explores higher-order structure in biomedical interaction data.
 
-**Stack:** `Python` · `PyTorch` · `PyTorch Geometric` · `HGNN` · `GCN` · `GAT`
+**Stack:** `Python` · `PyTorch` · `PyTorch Geometric` · `HGNN`
 
-[![Repo](https://img.shields.io/badge/View_Repo-C77DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meolen07/hypergraph-ddi)
-[![Paper](https://img.shields.io/badge/Research-00B4D8?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/meolen07/hypergraph-ddi#readme)
+[![Repo](https://img.shields.io/badge/Repository-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meolen07/hypergraph-ddi)
+[![Paper](https://img.shields.io/badge/Paper-Research_Write--up-C77DFF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/meolen07/hypergraph-ddi#key-insight)
+[![Citation](https://img.shields.io/badge/Citation-BibTeX-181717?style=for-the-badge)](https://github.com/meolen07/hypergraph-ddi#citation)
 
-*Higher-order drug interaction modeling · DrugBank / TWOSIDES pipeline · MIT License*
+<sub>Paper: link to arXiv/PDF when published · For now → README research summary.</sub>
 
 </td>
 </tr>
