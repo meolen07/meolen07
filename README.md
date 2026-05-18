@@ -61,8 +61,7 @@ Multi-model classification (ResNet-50, EfficientNet-B3, ViT-B/16) with **Grad-CA
 **Stack:** `Python` · `PyTorch` · `FastAPI` · `Streamlit`
 
 [![Repo](https://img.shields.io/badge/Repository-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meolen07/explainable-medical-imaging-ai)
-[![Demo](https://img.shields.io/badge/Demo-FF4B4B?style=for-the-badge)](https://github.com/meolen07/explainable-medical-imaging-ai#ui)
-
+[![Demo](https://img.shields.io/badge/Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/meolen07/explainable-medical-imaging-ai#ui)
 
 </td>
 <td width="50%" valign="top">
@@ -75,7 +74,7 @@ Hypergraph neural networks for **multi-drug** DDI vs GCN/GAT/GraphSAGE/MLP basel
 **Stack:** `Python` · `PyTorch` · `PyTorch Geometric` · `HGNN`
 
 [![Repo](https://img.shields.io/badge/Repository-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meolen07/hypergraph-ddi)
-[![Paper](https://img.shields.io/badge/Paper-C77DFF?style=for-the-badge)](https://github.com/meolen07/hypergraph-ddi#key-insight)
+[![Paper](https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://github.com/meolen07/hypergraph-ddi#citation)
 
 </td>
 </tr>
