@@ -24,10 +24,6 @@
 
 I'm a **Computer Science sophomore at the University of South Florida (USF)**, passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Engineering**.
 
-I'm currently building strong foundations in **programming**, **mathematics**, and **problem solving** — the core skills behind great AI systems. I love learning fast, shipping projects, and exploring how intelligent technology can create **real-world impact**.
-
-> *"Learn deeply. Build thoughtfully. Engineer systems that help people."*
-
 </motion>
 
 ---
