@@ -2,7 +2,7 @@
 
 # Hi, I'm Huynh Mai Linh Nguyen
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=F472B6&center=true&vCenter=true&multiline=true&repeat=true&width=620&lines=AI+%26+Enthusiast;Software+Engineer+in+Training;Building+Intelligent+Systems+That+Matter" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=F472B6&center=true&vCenter=true&multiline=true&repeat=true&width=620&lines=AI+Enthusiast" alt="Typing animation" />
 
 
 
