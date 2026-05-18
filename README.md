@@ -74,7 +74,7 @@ A growing collection of **machine learning experiments**, mini-research prototyp
 
 ---
 
-## ✨ Featured Projects
+## Featured Projects
 
 </motion>
 
@@ -95,8 +95,6 @@ Multi-model classification (ResNet-50, EfficientNet-B3, ViT-B/16) with **Grad-CA
 [![Demo](https://img.shields.io/badge/Demo-Streamlit_UI-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/meolen07/explainable-medical-imaging-ai#ui)
 [![API](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/meolen07/explainable-medical-imaging-ai#api)
 
-<sub>Demo: run locally → <code>streamlit run src/ui/app.py</code> · Replace badge URL when you deploy Streamlit Cloud.</sub>
-
 </td>
 <td width="50%" valign="top">
 
@@ -111,8 +109,6 @@ Hypergraph neural networks for **multi-drug** DDI vs GCN/GAT/GraphSAGE/MLP basel
 [![Paper](https://img.shields.io/badge/Paper-Research_Write--up-C77DFF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/meolen07/hypergraph-ddi#key-insight)
 [![Citation](https://img.shields.io/badge/Citation-BibTeX-181717?style=for-the-badge)](https://github.com/meolen07/hypergraph-ddi#citation)
 
-<sub>Paper: link to arXiv/PDF when published · For now → README research summary.</sub>
-
 </td>
 </tr>
 </table>
@@ -125,10 +121,6 @@ Hypergraph neural networks for **multi-drug** DDI vs GCN/GAT/GraphSAGE/MLP basel
 </motion>
 
 <div align="center">
-
-I'm open to **internships**, **collaborations**, and conversations about **AI**, **ML**, and **software engineering**.
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Huynh_Mai_Linh_Nguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huynh-mai-linh-nguyen-766719381/)
 [![Gmail](https://img.shields.io/badge/Gmail-huynhmailinhnguyen07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huynhmailinhnguyen07@gmail.com)
