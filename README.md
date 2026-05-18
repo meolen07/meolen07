@@ -1,12 +1,7 @@
-<div align="center">
-
 # Hi, I'm Huynh Mai Linh Nguyen
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=F472B6&center=true&vCenter=true&multiline=true&repeat=true&width=620&lines=AI+Enthusiast" alt="Typing animation" />
 
 </motion>
-
-<div align="left">
 
 I'm a **Computer Science sophomore at the University of South Florida (USF)**, passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Engineering**.
 
@@ -19,8 +14,6 @@ I'm a **Computer Science sophomore at the University of South Florida (USF)**, p
 ## Tech Stack
 
 </motion>
-
-<div align="center">
 
 ### Languages & Tools
 
@@ -48,8 +41,6 @@ I'm a **Computer Science sophomore at the University of South Florida (USF)**, p
 ## Current Focus
 
 </motion>
-
-<div align="left">
 
 - Learning **machine learning fundamentals** and core ML workflows
 - **Building AI projects** to apply theory to practice
@@ -109,8 +100,6 @@ Hypergraph neural networks for **multi-drug** DDI vs GCN/GAT/GraphSAGE/MLP basel
 
 </motion>
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Huynh_Mai_Linh_Nguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huynh-mai-linh-nguyen-766719381/)
 [![Gmail](https://img.shields.io/badge/Gmail-huynhmailinhnguyen07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huynhmailinhnguyen07@gmail.com)
 
@@ -120,8 +109,5 @@ Hypergraph neural networks for **multi-drug** DDI vs GCN/GAT/GraphSAGE/MLP basel
 
 </motion>
 
-<div align="center">
-
 ### ✨ Thanks for visiting!
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,F472B6,EC4899&height=100&section=footer" alt="Footer wave" width="100%"/>
