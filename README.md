@@ -1,6 +1,6 @@
 # Hi, I'm Huynh Mai Linh Nguyen
 
-I'm a **Computer Science sophomore at the University of South Florida (USF)**, passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Engineering**.
+I'm a **Computer Science sophomore at the University of South Florida (USF)**, passionate about **Artificial Intelligence** and **CS Theory**.
 
 </motion>
 
