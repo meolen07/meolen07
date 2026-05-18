@@ -59,17 +59,6 @@ I'm a **Computer Science sophomore at the University of South Florida (USF)**, p
 
 </motion>
 
----
-
-</motion>
-
-0%" valign="top">
-
-### Future ML Projects
-**Upcoming Experiments & Research Builds**
-
-A growing collection of **machine learning experiments**, mini-research prototypes, and applied AI systems — documenting my journey as an aspiring AI engineer.
-
 <div align="center">
 
 ---
