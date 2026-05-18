@@ -86,7 +86,7 @@ Hypergraph neural networks for **multi-drug** DDI vs GCN/GAT/GraphSAGE/MLP basel
 
 </motion>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huynh-mai-linh-nguyen-766719381/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huynh-mai-linh-nguyen-766719381/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huynhmailinhnguyen07@gmail.com)
 
 </motion>
