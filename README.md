@@ -130,7 +130,6 @@ I'm open to **internships**, **collaborations**, and conversations about **AI**,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Huynh_Mai_Linh_Nguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huynh-mai-linh-nguyen-766719381/)
 [![Gmail](https://img.shields.io/badge/Gmail-huynhmailinhnguyen07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huynhmailinhnguyen07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@meolen07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meolen07)
 
 </motion>
 
@@ -144,12 +143,4 @@ I'm open to **internships**, **collaborations**, and conversations about **AI**,
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,A855F7,22D3EE&height=100&section=footer" alt="Footer wave" width="100%"/>
-
-<br/>
-
-⭐️ *From [Huynh Mai Linh Nguyen](https://github.com/meolen07)*
-
-</motion>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,F472B6,EC4899&height=100&section=footer" alt="Footer wave" width="100%"/>
