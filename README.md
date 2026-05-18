@@ -2,13 +2,9 @@
 
 # Hi, I'm Huynh Mai Linh Nguyen
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=620&lines=AI+%26+Machine+Learning+Enthusiast;Software+Engineer+in+Training;Building+Intelligent+Systems+That+Matter" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=F472B6&center=true&vCenter=true&multiline=true&repeat=true&width=620&lines=AI+%26+Enthusiast;Software+Engineer+in+Training;Building+Intelligent+Systems+That+Matter" alt="Typing animation" />
 
-<br/>
 
-**CS Sophomore · AI & Software Engineering · Turning ideas into intelligent systems**
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huynh-mai-linh-nguyen-766719381/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huynhmailinhnguyen07@gmail.com)
