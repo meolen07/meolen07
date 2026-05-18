@@ -1,31 +1,190 @@
-# Hi, I'm Huynh Mai Linh Nguyen 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&color=F472B6&lines=Building+cool+things+with+code;Exploring+AI+and+Machine+Learning;Turning+ideas+into+software" />
-</p>
+<div align="center">
 
-## About Me
-I’m a Computer Science sophomore at USF with a strong interest in artificial intelligence and engineering intelligent systems. Right now, I’m focused on building a solid foundation in programming, mathematics, and problem solving while exploring machine learning, data science, and AI development.
+# 👋 Hi, I'm Huynh Mai Linh Nguyen
 
-## Interests
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=620&lines=AI+%26+Machine+Learning+Enthusiast;Software+Engineer+in+Training;Building+Intelligent+Systems+That+Matter" alt="Typing animation" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-20B2AA?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-24292F?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<br/>
 
-## Current Focus
-- Strengthening computer science fundamentals
-- Learning the foundations of machine learning and AI
-- Building projects with Python
-- Practicing data structures and algorithms
-- Growing toward becoming an AI Research Engineer
+**CS Sophomore · AI & Software Engineering · Turning ideas into intelligent systems**
 
-## Connect With Me
-[Email](huynhmailinhnguyen07@gmail.com) <br>
-[Linkedin](https://www.linkedin.com/in/huynh-mai-linh-nguyen-766719381/)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huynh-mai-linh-nguyen-766719381/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huynhmailinhnguyen07@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meolen07)
+
+</motion>
 
 ---
-⭐ Thanks for visiting my profile!
+
+</motion>
+
+## 🧠 About Me
+
+</motion>
+
+<div align="left">
+
+I'm a **Computer Science sophomore at the University of South Florida (USF)**, passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Engineering**.
+
+I'm currently building strong foundations in **programming**, **mathematics**, and **problem solving** — the core skills behind great AI systems. I love learning fast, shipping projects, and exploring how intelligent technology can create **real-world impact**.
+
+> *"Learn deeply. Build thoughtfully. Engineer systems that help people."*
+
+</motion>
+
+---
+
+</motion>
+
+## 🛠️ Tech Stack
+
+</motion>
+
+<div align="center">
+
+### Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br/>
+
+### AI / ML & Data
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</motion>
+
+---
+
+</motion>
+
+## 🎯 Current Focus
+
+</motion>
+
+<div align="left">
+
+- Learning **machine learning fundamentals** and core ML workflows
+- **Building AI projects** to apply theory to practice
+- Practicing **DSA and algorithms** for strong engineering fundamentals
+- Exploring **deep learning** architectures and modern AI tooling
+- Growing toward an **AI Research Engineer** career path
+
+</motion>
+
+---
+
+</motion>
+
+## Featured Projects
+
+</motion>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### MedXAI
+**Explainable Medical Imaging Intelligence System**
+
+An AI-driven medical imaging project focused on **intelligent diagnosis support** and **model interpretability** — bridging deep learning with transparent, clinician-friendly insights.
+
+**Tech:** `Python` · `PyTorch` · `TensorFlow` · `NumPy` · `Pandas` · `Scikit-Learn`
+
+[![Repo](https://img.shields.io/badge/Repository-A855F7?style=flat-square&logo=github&logoColor=white)](https://github.com/meolen07/explainable-medical-imaging-ai)
+[![Demo](https://img.shields.io/badge/Demo-22D3EE?style=flat-square&logo=rocket&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top">
+
+### Future ML Projects
+**Upcoming Experiments & Research Builds**
+
+A growing collection of **machine learning experiments**, mini-research prototypes, and applied AI systems — documenting my journey as an aspiring AI engineer.
+
+**Tech:** `Python` · `PyTorch` · `TensorFlow` · `SQL` · `Git`
+
+[![Repo](https://img.shields.io/badge/Repository-A855F7?style=flat-square&logo=github&logoColor=white)](https://github.com/meolen07)
+[![Ideas](https://img.shields.io/badge/Ideas-F472B6?style=flat-square&logo=lightbulb&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+*More projects coming soon — follow my GitHub for updates.*
+
+</td>
+</tr>
+</table>
+
+---
+
+</motion>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=meolen07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F472B6&icon_color=22D3EE&text_color=c9d1d9&border_radius=12" alt="GitHub Stats" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.demolab.com/?user=meolen07&theme=tokyonight&hide_border=true&background=0d1117&ring=F472B6&fire=A855F7&currStreakLabel=22D3EE&sideLabels=FFFFFF&dates=8B949E&border_radius=12" alt="GitHub Streak" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meolen07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F472B6&text_color=c9d1d9&langs_count=8&border_radius=12" alt="Top Languages" height="165"/>
+
+</motion>
+
+---
+
+</motion>
+
+## Connect
+
+</motion>
+
+<div align="center">
+
+I'm open to **internships**, **collaborations**, and conversations about **AI**, **ML**, and **software engineering**.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Huynh_Mai_Linh_Nguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huynh-mai-linh-nguyen-766719381/)
+[![Gmail](https://img.shields.io/badge/Gmail-huynhmailinhnguyen07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huynhmailinhnguyen07@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meolen07)
+
+</motion>
+
+---
+
+</motion>
+
+<div align="center">
+
+### ✨ Thanks for visiting!
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,A855F7,22D3EE&height=100&section=footer" alt="Footer wave" width="100%"/>
+
+<br/>
+
+⭐️ *From [Huynh Mai Linh Nguyen](https://github.com/meolen07)*
+
+</motion>
+
+</div>
