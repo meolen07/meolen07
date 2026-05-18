@@ -50,10 +50,6 @@ I'm a **Computer Science sophomore at the University of South Florida (USF)**, p
 
 </motion>
 
-<div align="center">
-
----
-
 ## Featured Projects
 
 </motion>
@@ -92,7 +88,6 @@ Hypergraph neural networks for **multi-drug** DDI vs GCN/GAT/GraphSAGE/MLP basel
 </td>
 </tr>
 </table>
----
 
 </motion>
 
