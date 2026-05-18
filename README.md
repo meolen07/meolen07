@@ -125,26 +125,6 @@ A growing collection of **machine learning experiments**, mini-research prototyp
 
 </motion>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=meolen07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F472B6&icon_color=22D3EE&text_color=c9d1d9&border_radius=12" alt="GitHub Stats" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=meolen07&theme=tokyonight&hide_border=true&background=0d1117&ring=F472B6&fire=A855F7&currStreakLabel=22D3EE&sideLabels=FFFFFF&dates=8B949E&border_radius=12" alt="GitHub Streak" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meolen07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F472B6&text_color=c9d1d9&langs_count=8&border_radius=12" alt="Top Languages" height="165"/>
-
-</motion>
-
----
-
-</motion>
-
 ## Connect
 
 </motion>
