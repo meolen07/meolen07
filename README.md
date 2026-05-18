@@ -72,9 +72,20 @@ I'm a **Computer Science sophomore at the University of South Florida (USF)**, p
 
 </motion>
 
-## Featured Projects
+0%" valign="top">
 
-</motion>
+### Future ML Projects
+**Upcoming Experiments & Research Builds**
+
+A growing collection of **machine learning experiments**, mini-research prototypes, and applied AI systems — documenting my journey as an aspiring AI engineer.
+
+<div align="center">
+
+---
+
+## ✨ Featured Projects
+
+</div>
 
 <table>
 <tr>
@@ -83,37 +94,31 @@ I'm a **Computer Science sophomore at the University of South Florida (USF)**, p
 ### MedXAI
 **Explainable Medical Imaging Intelligence System**
 
-An AI-driven medical imaging project focused on **intelligent diagnosis support** and **model interpretability** — bridging deep learning with transparent, clinician-friendly insights.
+AI-driven medical imaging focused on **intelligent diagnosis support** and **model interpretability** — connecting deep learning with transparent, clinician-friendly insights.
 
-**Tech:** `Python` · `PyTorch` · `TensorFlow` · `NumPy` · `Pandas` · `Scikit-Learn`
+**Stack:** `Python` · `PyTorch` · `TensorFlow` · `NumPy` · `Pandas` · `Scikit-Learn`
 
-[![Repo](https://img.shields.io/badge/Repository-A855F7?style=flat-square&logo=github&logoColor=white)](https://github.com/meolen07/explainable-medical-imaging-ai)
-[![Demo](https://img.shields.io/badge/Demo-22D3EE?style=flat-square&logo=rocket&logoColor=white)](#)
-
-</td>
-<td width="50%" valign="top">
-
-### Future ML Projects
-**Upcoming Experiments & Research Builds**
-
-A growing collection of **machine learning experiments**, mini-research prototypes, and applied AI systems — documenting my journey as an aspiring AI engineer.
-
-**Tech:** `Python` · `PyTorch` · `TensorFlow` · `SQL` · `Git`
-
-[![Repo](https://img.shields.io/badge/Repository-A855F7?style=flat-square&logo=github&logoColor=white)](https://github.com/meolen07)
-[![Ideas](https://img.shields.io/badge/Ideas-F472B6?style=flat-square&logo=lightbulb&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View_Repo-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meolen07/explainable-medical-imaging-ai)
+[![Demo](https://img.shields.io/badge/Demo-00B4D8?style=for-the-badge&logo=rocket&logoColor=white)](#)
 
 </td>
 <td width="50%" valign="top">
 
-<br/>
+### Hypergraph-DDI
+**What if Drug Interactions Are Not Pairwise?**
 
-*More projects coming soon — follow my GitHub for updates.*
+Research codebase modeling **multi-drug interactions** with **Hypergraph Neural Networks (HGNNs)** instead of assuming pairwise-only structure. Compares HGNN against **GCN**, **GAT**, **GraphSAGE**, and **MLP** baselines on DDI prediction (ROC-AUC, PR-AUC, F1, Precision@K).
+
+**Stack:** `Python` · `PyTorch` · `PyTorch Geometric` · `HGNN` · `GCN` · `GAT`
+
+[![Repo](https://img.shields.io/badge/View_Repo-C77DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meolen07/hypergraph-ddi)
+[![Paper](https://img.shields.io/badge/Research-00B4D8?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/meolen07/hypergraph-ddi#readme)
+
+*Higher-order drug interaction modeling · DrugBank / TWOSIDES pipeline · MIT License*
 
 </td>
 </tr>
 </table>
-
 ---
 
 </motion>
