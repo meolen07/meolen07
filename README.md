@@ -130,7 +130,7 @@ I'm open to **internships**, **collaborations**, and conversations about **AI**,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Huynh_Mai_Linh_Nguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huynh-mai-linh-nguyen-766719381/)
 [![Gmail](https://img.shields.io/badge/Gmail-huynhmailinhnguyen07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huynhmailinhnguyen07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@meolen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meolen07)
+[![GitHub](https://img.shields.io/badge/GitHub-@meolen07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meolen07)
 
 </motion>
 
