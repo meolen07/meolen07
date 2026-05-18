@@ -5,11 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=F472B6&center=true&vCenter=true&multiline=true&repeat=true&width=620&lines=AI+Enthusiast" alt="Typing animation" />
 
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huynh-mai-linh-nguyen-766719381/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huynhmailinhnguyen07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meolen07)
-
 </motion>
 
 ---
