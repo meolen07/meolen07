@@ -42,11 +42,6 @@ I'm a **Computer Science sophomore at the University of South Florida (USF)**, p
 
 </motion>
 
-</div>
-
-<table>
-<tr>
-
 ### Hypergraph-DDI
 **What if Drug Interactions Are Not Pairwise?**
 
@@ -56,10 +51,6 @@ Hypergraph neural networks for **multi-drug** DDI vs GCN/GAT/GraphSAGE/MLP basel
 
 [![Repo](https://img.shields.io/badge/Repository-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meolen07/hypergraph-ddi)
 [![Paper](https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://github.com/meolen07/hypergraph-ddi#citation)
-
-</td>
-</tr>
-</table>
 
 </motion>
 
