@@ -46,20 +46,6 @@ I'm a **Computer Science sophomore at the University of South Florida (USF)**, p
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### MedXAI
-**Explainable Medical Imaging Intelligence**
-
-Multi-model classification (ResNet-50, EfficientNet-B3, ViT-B/16) with **Grad-CAM** and **attention rollout**. FastAPI inference + **Streamlit** review UI (upload → probabilities → heatmap overlay). *Research software — not for clinical use.*
-
-**Stack:** `Python` · `PyTorch` · `FastAPI` · `Streamlit`
-
-[![Repo](https://img.shields.io/badge/Repository-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meolen07/explainable-medical-imaging-ai)
-[![Demo](https://img.shields.io/badge/Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/meolen07/explainable-medical-imaging-ai#ui)
-
-</td>
-<td width="50%" valign="top">
 
 ### Hypergraph-DDI
 **What if Drug Interactions Are Not Pairwise?**
