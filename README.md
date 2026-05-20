@@ -38,22 +38,6 @@ I'm a **Computer Science sophomore at the University of South Florida (USF)**, p
 
 </motion>
 
-## Featured Projects
-
-</motion>
-
-### Hypergraph-DDI
-**What if Drug Interactions Are Not Pairwise?**
-
-Hypergraph neural networks for **multi-drug** DDI vs GCN/GAT/GraphSAGE/MLP baselines. Unified preprocess → train → evaluate (ROC-AUC, PR-AUC, F1, Precision@K). Explores higher-order structure in biomedical interaction data.
-
-**Stack:** `Python` · `PyTorch` · `PyTorch Geometric` · `HGNN`
-
-[![Repo](https://img.shields.io/badge/Repository-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meolen07/hypergraph-ddi)
-[![Paper](https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://github.com/meolen07/hypergraph-ddi#citation)
-
-</motion>
-
 ## Connect
 
 </motion>
