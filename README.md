@@ -25,17 +25,6 @@ I'm a **Computer Science sophomore at the University of South Florida (USF)**, p
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-
-## Current Focus
-
-</motion>
-
-- Learning **machine learning fundamentals** and core ML workflows
-- **Building AI projects** to apply theory to practice
-- Practicing **DSA and algorithms** for strong engineering fundamentals
-- Exploring **deep learning** architectures and modern AI tooling
-- Growing toward an **AI Research Engineer** career path
-
 </motion>
 
 ## Connect
