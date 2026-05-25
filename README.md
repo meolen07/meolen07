@@ -37,4 +37,3 @@ I'm a **Computer Science sophomore at the University of South Florida (USF)**, p
 </motion>
 
 ### ✨ Thanks for visiting!
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,F472B6,EC4899&height=100&section=footer" alt="Footer wave" width="100%"/>
