@@ -36,4 +36,4 @@ I'm a **Computer Science sophomore at the University of South Florida (USF)**, p
 
 </motion>
 
-### ✨ Thanks for visiting!
+### Thanks for visiting!
